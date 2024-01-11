@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Movie_master",
+    "slug": "Movie_master",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "acf1213b-e7a2-454d-a532-aa993c2badc3"
+      }
+    }
+  }
+}
