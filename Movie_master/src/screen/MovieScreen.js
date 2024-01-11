@@ -62,7 +62,7 @@ const MovieScreen = () => {
     getTrendingMovies();
     getUpcomingMovies();
     getTopRatedMovies();
-    // getMovieDetials(item.id);
+    //  getMovieDetials(item.id);
   }, []);
 
   _rendertrendingMoviesItem = ({ item, index }) => {
